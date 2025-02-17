@@ -1,5 +1,5 @@
 ## Olá Sou Rafael Alvarenga 👋
-🔭 Estou em transição de carreira em busca da minha primeira oportunidade com QA
+🔭 Estou em transição de carreira em busca da minha primeira oportunidade como QA
 
 🌱 Estudando Quality Assurance 
 
