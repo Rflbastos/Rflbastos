@@ -1,9 +1,9 @@
 ## Olá Sou Rafael Alvarenga 👋
 🔭 Estou em transição de carreira em busca da minha primeira oportunidade como QA
 
-🌱 Estudando Quality Assurance 
+🌱 Estudando Testes automatizados
 
-🎯 Foco em Cypress
+🎯 Foco em Cypress e Robot Framework
 
 <div>
   <a href="https://github.com/Rflbastos">
